@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Gesture Recognition pipeline using Acconeer mmWave
+  Radar
+message: >-
+  This is the standard method for citing the
+  repository in any research article. 
+type: software
+authors:
+  - given-names: Ahtsham Zafar
+    name-particle: Ahtsham
+    family-names: Zafar
+    email: azafar.msee20seecs@seecs.edu.pk
+    affiliation: National University of Sciences and Technology
+    orcid: 'https://orcid.org/0000-0001-9691-2183'
