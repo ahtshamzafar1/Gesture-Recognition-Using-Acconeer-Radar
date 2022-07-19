@@ -10,9 +10,8 @@ message: >-
   repository in any research article. 
 type: software
 authors:
-  - given-names: Ahtsham Zafar
-    name-particle: Ahtsham
-    family-names: Zafar
+  - given-names: GESTAR Project
+    name-particle: GESTAR
     email: azafar.msee20seecs@seecs.edu.pk
     affiliation: National University of Sciences and Technology
     orcid: 'https://orcid.org/0000-0001-9691-2183'
