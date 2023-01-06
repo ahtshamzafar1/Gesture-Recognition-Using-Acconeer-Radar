@@ -1,4 +1,7 @@
 # Gesture Recognition Using Acconeer Radar
+# Collected DATASET Available on KAGGLE. 
+https://www.kaggle.com/datasets/ahtshamzafar/mmwave-radar-dataset-for-hand-gesture-recognition
+
 This repository provides a complete python based setup for gesture recognition. 
 
 # LSTM_for_Gesture_Recognition
